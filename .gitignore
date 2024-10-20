@@ -40,3 +40,7 @@ frontend/typings
 # System files
 frontend/.DS_Store
 frontend/Thumbs.db
+/EShopNet/.idea
+/EShopNet/EShopNet.Api/obj
+/EShopNet/EShopNet.Api/bin
+/frontend/.angular
